@@ -10,11 +10,6 @@
   },
   "dependencies": {
     "embla-carousel-react": "^8.6.0",
-<<<<<<< HEAD
-=======
-    "framer-motion": "^12.38.0",
-    "groq-sdk": "^1.1.2",
->>>>>>> 821f6f3 (making final commit)
     "lucide-react": "^1.8.0",
     "next": "16.2.3",
     "react": "19.2.4",
